@@ -1,0 +1,17 @@
+{
+  "name": "vite-babylon-builtproblem-minimal",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build -l info -d",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.4.0"
+  },
+  "dependencies": {
+    "@babylonjs/core": "^6.11.2"
+  }
+}
